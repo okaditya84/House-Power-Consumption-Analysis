@@ -1,0 +1,2 @@
+# House Power Consumption Analysis
+ This project involves analyzing and visualizing electrical power consumption data from a household over a period of almost four years. The dataset contains measurements taken at one-minute intervals, including various electrical quantities and sub-metering values. The primary objective is to explore and gain insights into power consumption patterns through various data visualization techniques.
